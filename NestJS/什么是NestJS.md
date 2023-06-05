@@ -1,7 +1,7 @@
 # 什么是NestJS
 
 
-![image][icon]
+![icon]
 
 官方介绍
 > Nest (NestJS) 是一个用于构建高效、可扩展的 Node.js 服务器端应用程序的开发框架。
